@@ -4,4 +4,8 @@ bui# Summary
 * [Docker Edge](docker/docker_edge/overview.md)
 	* [Docker Edge CLI](docker/docker_edge/cli/base_command.md)
 		* [docker attach](docker/docker_edge/cli/attach.md)
+		* [docker build](docker/docker_edge/cli/build.md)
+		* [docker checkpoint](docker/docker_edge/cli/checkpoint.md)
+		* [docker commit](docker/docker_edge/cli/commit.md)
+		* [docker container](docker/docker_edge/cli/container.md)
 	* [multi_stage build](docker/docker_edge/use_multi_stage_build.md)
