@@ -8,4 +8,5 @@ bui# Summary
 		* [docker checkpoint](docker/docker_edge/cli/checkpoint.md)
 		* [docker commit](docker/docker_edge/cli/commit.md)
 		* [docker container](docker/docker_edge/cli/container.md)
+		* [docker cp](docker/docker_edge/cli/cp.md)
 	* [multi_stage build](docker/docker_edge/use_multi_stage_build.md)
